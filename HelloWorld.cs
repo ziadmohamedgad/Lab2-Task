@@ -8,5 +8,9 @@ namespace Task
 {
     internal class HelloWorld
     {
+        public void PrintHelloWorld()
+        {
+            Console.WriteLine("Hello World");
+        }
     }
 }
