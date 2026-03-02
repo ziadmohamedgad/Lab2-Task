@@ -12,5 +12,9 @@ namespace Task
         {
             Console.WriteLine("Hello ITI");
         }
+        public void PrintHelloGit()
+        {
+            Console.WriteLine("HelloGit");
+        }
     }
 }
