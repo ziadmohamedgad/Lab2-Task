@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task
 {
-    internal class HelloWorld
+    internal class HelloJava
     {
         public void PrintHelloWorld()
         {
